@@ -4,6 +4,8 @@ A compilation of React Patterns, techniques, tips and tricks.
 
 **Gitbook format**: https://vasanthk.gitbooks.io/react-bits
 
+**Gitbook 中文格式**: https://vasanthk.gitbooks.io/react-bits/zh-CN/
+
 > Your contributions are heartily ♡ welcome. (✿◠‿◠)
 
 - Design Patterns and Techniques
